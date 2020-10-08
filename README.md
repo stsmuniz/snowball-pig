@@ -1,7 +1,7 @@
 # snowball-pig
 Use PIG image files on LÖVE2D
 
-# Wait, what is a PIG file?
+## Wait, what is a PIG file?
 PIG stands for Pixel Image Grid and is a very simple implementation for drawing images from a data matrix.
 It consists of two tables: color palette and pixel matrix
 
@@ -32,6 +32,6 @@ Below is an example of a PIG file:
 The above code renders the following image:
 
 
-![Oinc!](/docs/images/piglet_on_mud.png)
+![Oinc!](/docs/images/piglet_on_mud.png "Oinc!")
 
 
