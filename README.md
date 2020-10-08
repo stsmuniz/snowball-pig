@@ -1,2 +1,2 @@
 # snowball-pig
-A handler for .pig image files
+Use PIG image files on LÖVE2D
