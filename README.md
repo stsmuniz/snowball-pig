@@ -30,6 +30,8 @@ Below is an example of a PIG file:
 ```
 
 The above code renders the following image:
+
+
 ![Oinc!](/docs/images/piglet_on_mud.png)
 
 
